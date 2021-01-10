@@ -5,7 +5,7 @@ function Header() {
   return (
     <header>
       <img
-        src="http://www.pngall.com/wp-content/uploads/2016/05/Trollface.png"
+        src="https://i.kym-cdn.com/photos/images/newsfeed/000/096/044/trollface.jpg"
         alt="Problem?"
       />
       <p>Meme generator</p>
